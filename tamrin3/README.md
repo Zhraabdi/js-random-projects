@@ -28,6 +28,8 @@
 2. Click the button to fetch and display a random dog image.
 
 
+## 📸 Preview :
 
+![Preview](tamrin3.png)
 
 

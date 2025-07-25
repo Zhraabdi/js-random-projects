@@ -26,3 +26,13 @@ Each folder contains its own `index.html`, script files, and a dedicated `README
    cd js-random-projects
 
 
+---
+
+
+## 📸 Preview :
+
+![Preview](tamrin1.png)
+![Preview](tamrin2.png)
+![Preview](tamrin3.png)
+
+

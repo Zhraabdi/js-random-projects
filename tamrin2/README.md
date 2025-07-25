@@ -30,7 +30,6 @@ This project demonstrates asynchronous JavaScript with dynamic imports and rando
 2. Click the button to generate two random numbers and view the final result or error.
 
 
-
 ---
 
 ## ⚠️ Note
@@ -44,7 +43,11 @@ If either number is less than 2, the app will throw a RangeError to simulate inp
 - JavaScript Modules (`import`)
 - Promises & async/await
 
+---
 
+## 📸 Preview :
+
+![Preview](tamrin2.png)
 
 
 

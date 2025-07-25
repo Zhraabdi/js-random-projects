@@ -35,6 +35,11 @@ A simple JavaScript mini-project that simulates a random success/failure scenari
 - JavaScript
 - Promises
 
+---
+
+## 📸 Preview :
+
+![Preview](tamrin1.png)
 
 
 
